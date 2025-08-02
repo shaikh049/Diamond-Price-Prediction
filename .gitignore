@@ -1,0 +1,14 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python build artifacts
+*.egg-info/
+build/
+dist/
+
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
